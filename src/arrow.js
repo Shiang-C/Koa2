@@ -28,7 +28,7 @@ const luke = {
     setTimeout(function () {
       console.log('id:', this.id);
     }, 50)
-  },
+  }, //空値
   sayWithThis: function () {
     let that = this //self me _this
     setTimeout(function () {
