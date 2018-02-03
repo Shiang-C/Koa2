@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["fs","require"],"mappings":";;AACA;;AACA,IAAMA,KAAKC,QAAQ,IAAR,CAAX,C,CAFA","file":"module.js","sourcesContent":["//靜態加載方法\nimport { writeFile } from 'fs'\nconst fs = require('fs')\n"]}
